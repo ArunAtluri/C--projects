@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2015\Projects\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+C:\Users\USER\documents\visual studio 2015\Projects\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+C:\Users\USER\documents\visual studio 2015\Projects\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\WordUnscrambler\WordUnscrambler\obj\Debug\ReadAndDisplayWords.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+C:\Users\USER\documents\visual studio 2015\Projects\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
